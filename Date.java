@@ -10,6 +10,10 @@ class Student {
     void show1(){
         System.out.println("Student Name: " + name + "\nAge: " + age);
     }
+
+    void show12(){
+        System.out.println("Student Name: " + name + "\nAge: " + age);
+    }
 }
 
 class Student_course {
